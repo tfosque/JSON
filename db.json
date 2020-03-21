@@ -1,0 +1,16 @@
+{
+    "_id": "darius-strong-a59b-659d-4365-9578-470fdc13b0fc",
+    "fname": "Darius",
+    "lname": "Strong",
+    "name": "Darius Strong",
+    "created": "1584805264143",
+    "credentials": {
+        "username": "darius",
+        "password": "dstrong123"
+    },
+    "dob": "04/28/2005",
+    "email": null,
+    "phone": null,
+    "role": null,
+    "title": null
+}
